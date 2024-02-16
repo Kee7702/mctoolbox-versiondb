@@ -1,0 +1,1204 @@
+[
+  {
+    "version_name": "1.0.0",
+    "codes": {
+      "armeabi-v7a": 2
+    }
+  },
+  {
+    "version_name": "1.1.0",
+    "codes": {
+      "armeabi-v7a": 3
+    }
+  },
+  {
+    "version_name": "1.1.1",
+    "codes": {
+      "armeabi-v7a": 4
+    }
+  },
+  {
+    "version_name": "1.2.0",
+    "codes": {
+      "armeabi-v7a": 5
+    }
+  },
+  {
+    "version_name": "1.2.1",
+    "codes": {
+      "armeabi-v7a": 6
+    }
+  },
+  {
+    "version_name": "2.0",
+    "codes": {
+      "armeabi-v7a": 7,
+      "x86": 7,
+      "arm64-v8a": 7,
+      "x86_64": 7
+    }
+  },
+  {
+    "version_name": "2.0.1",
+    "codes": {
+      "armeabi-v7a": 8,
+      "x86": 8,
+      "arm64-v8a": 8,
+      "x86_64": 8
+    }
+  },
+  {
+    "version_name": "2.1.0",
+    "codes": {
+      "armeabi-v7a": 9,
+      "x86": 9,
+      "arm64-v8a": 9,
+      "x86_64": 9
+    }
+  },
+  {
+    "version_name": "2.1.1",
+    "codes": {
+      "armeabi-v7a": 10,
+      "x86": 10,
+      "arm64-v8a": 10,
+      "x86_64": 10
+    }
+  },
+  {
+    "version_name": "3.0.0",
+    "codes": {
+      "armeabi-v7a": 11,
+      "x86": 11,
+      "arm64-v8a": 11,
+      "x86_64": 11
+    }
+  },
+  {
+    "version_name": "3.0.1",
+    "codes": {
+      "armeabi-v7a": 12,
+      "x86": 12,
+      "arm64-v8a": 12,
+      "x86_64": 12
+    }
+  },
+  {
+    "version_name": "3.0.2",
+    "codes": {
+      "armeabi-v7a": 13,
+      "x86": 13,
+      "arm64-v8a": 13,
+      "x86_64": 13
+    }
+  },
+  {
+    "version_name": "3.1.0",
+    "codes": {
+      "armeabi-v7a": 14,
+      "x86": 14,
+      "arm64-v8a": 14,
+      "x86_64": 14
+    }
+  },
+  {
+    "version_name": "3.1.1",
+    "codes": {
+      "armeabi-v7a": 15,
+      "x86": 15,
+      "arm64-v8a": 15,
+      "x86_64": 15
+    }
+  },
+  {
+    "version_name": "3.1.2",
+    "codes": {
+      "armeabi-v7a": 16,
+      "x86": 16,
+      "arm64-v8a": 16,
+      "x86_64": 16
+    }
+  },
+  {
+    "version_name": "3.1.3",
+    "codes": {
+      "armeabi-v7a": 17,
+      "x86": 17,
+      "arm64-v8a": 17,
+      "x86_64": 17
+    }
+  },
+  {
+    "version_name": "3.2.0",
+    "codes": {
+      "armeabi-v7a": 18,
+      "x86": 18,
+      "arm64-v8a": 18,
+      "x86_64": 18
+    }
+  },
+  {
+    "version_name": "3.2.1",
+    "codes": {
+      "armeabi-v7a": 19,
+      "x86": 19,
+      "arm64-v8a": 19,
+      "x86_64": 19
+    }
+  },
+  {
+    "version_name": "3.2.2",
+    "codes": {
+      "armeabi-v7a": 20,
+      "x86": 20,
+      "arm64-v8a": 20,
+      "x86_64": 20
+    }
+  },
+  {
+    "version_name": "3.2.3",
+    "codes": {
+      "armeabi-v7a": 21,
+      "x86": 21,
+      "arm64-v8a": 21,
+      "x86_64": 21
+    }
+  },
+  {
+    "version_name": "3.2.3",
+    "codes": {
+      "armeabi-v7a": 22,
+      "x86": 22,
+      "arm64-v8a": 22,
+      "x86_64": 22
+    }
+  },
+  {
+    "version_name": "3.2.4",
+    "codes": {
+      "armeabi-v7a": 23,
+      "x86": 23,
+      "arm64-v8a": 23,
+      "x86_64": 23
+    }
+  },
+  {
+    "version_name": "3.2.5",
+    "codes": {
+      "armeabi-v7a": 24,
+      "x86": 24,
+      "arm64-v8a": 24,
+      "x86_64": 24
+    }
+  },
+  {
+    "version_name": "3.2.6",
+    "codes": {
+      "armeabi-v7a": 25,
+      "x86": 25,
+      "arm64-v8a": 25,
+      "x86_64": 25
+    }
+  },
+  {
+    "version_name": "3.2.7",
+    "codes": {
+      "armeabi-v7a": 26,
+      "x86": 26,
+      "arm64-v8a": 26,
+      "x86_64": 26
+    }
+  },
+  {
+    "version_name": "3.2.8",
+    "codes": {
+      "armeabi-v7a": 27,
+      "x86": 27,
+      "arm64-v8a": 27,
+      "x86_64": 27
+    }
+  },
+  {
+    "version_name": "3.2.9",
+    "codes": {
+      "armeabi-v7a": 28,
+      "x86": 28,
+      "arm64-v8a": 28,
+      "x86_64": 28
+    }
+  },
+  {
+    "version_name": "3.2.10",
+    "codes": {
+      "armeabi-v7a": 29,
+      "x86": 29,
+      "arm64-v8a": 29,
+      "x86_64": 29
+    }
+  },
+  {
+    "version_name": "3.2.11",
+    "codes": {
+      "armeabi-v7a": 30,
+      "x86": 30,
+      "arm64-v8a": 30,
+      "x86_64": 30
+    }
+  },
+  {
+    "version_name": "3.2.12",
+    "codes": {
+      "armeabi-v7a": 31,
+      "x86": 31,
+      "arm64-v8a": 31,
+      "x86_64": 31
+    }
+  },
+  {
+    "version_name": "3.2.13",
+    "codes": {
+      "armeabi-v7a": 32,
+      "x86": 32,
+      "arm64-v8a": 32,
+      "x86_64": 32
+    }
+  },
+  {
+    "version_name": "3.2.13",
+    "codes": {
+      "armeabi-v7a": 33,
+      "x86": 33,
+      "arm64-v8a": 33,
+      "x86_64": 33
+    }
+  },
+  {
+    "version_name": "3.2.14",
+    "codes": {
+      "armeabi-v7a": 34,
+      "x86": 34,
+      "arm64-v8a": 34,
+      "x86_64": 34
+    }
+  },
+  {
+    "version_name": "3.2.15",
+    "codes": {
+      "armeabi-v7a": 35,
+      "x86": 35,
+      "arm64-v8a": 35,
+      "x86_64": 35
+    }
+  },
+  {
+    "version_name": "3.2.16",
+    "codes": {
+      "armeabi-v7a": 36,
+      "x86": 36,
+      "arm64-v8a": 36,
+      "x86_64": 36
+    }
+  },
+  {
+    "version_name": "3.2.17",
+    "codes": {
+      "armeabi-v7a": 37,
+      "x86": 37,
+      "arm64-v8a": 37,
+      "x86_64": 37
+    }
+  },
+  {
+    "version_name": "3.2.18",
+    "codes": {
+      "armeabi-v7a": 38,
+      "x86": 38,
+      "arm64-v8a": 38,
+      "x86_64": 38
+    }
+  },
+  {
+    "version_name": "3.2.19",
+    "codes": {
+      "armeabi-v7a": 39,
+      "x86": 39,
+      "arm64-v8a": 39,
+      "x86_64": 39
+    }
+  },
+  {
+    "version_name": "3.2.20",
+    "codes": {
+      "armeabi-v7a": 40,
+      "x86": 40,
+      "arm64-v8a": 40,
+      "x86_64": 40
+    }
+  },
+  {
+    "version_name": "3.2.21",
+    "codes": {
+      "armeabi-v7a": 41,
+      "x86": 41,
+      "arm64-v8a": 41,
+      "x86_64": 41
+    }
+  },
+  {
+    "version_name": "3.2.22",
+    "codes": {
+      "armeabi-v7a": 42,
+      "x86": 42,
+      "arm64-v8a": 42,
+      "x86_64": 42
+    }
+  },
+  {
+    "version_name": "3.2.23",
+    "codes": {
+      "armeabi-v7a": 43,
+      "x86": 43,
+      "arm64-v8a": 43,
+      "x86_64": 43
+    }
+  },
+  {
+    "version_name": "3.2.24",
+    "codes": {
+      "armeabi-v7a": 44,
+      "x86": 44,
+      "arm64-v8a": 44,
+      "x86_64": 44
+    }
+  },
+  {
+    "version_name": "3.2.25",
+    "codes": {
+      "armeabi-v7a": 45,
+      "x86": 45,
+      "arm64-v8a": 45,
+      "x86_64": 45
+    }
+  },
+  {
+    "version_name": "3.2.26",
+    "codes": {
+      "armeabi-v7a": 46,
+      "x86": 46,
+      "arm64-v8a": 46,
+      "x86_64": 46
+    }
+  },
+  {
+    "version_name": "3.2.27",
+    "codes": {
+      "armeabi-v7a": 47,
+      "x86": 47,
+      "arm64-v8a": 47,
+      "x86_64": 47
+    }
+  },
+  {
+    "version_name": "3.2.28",
+    "codes": {
+      "armeabi-v7a": 48,
+      "x86": 48,
+      "arm64-v8a": 48,
+      "x86_64": 48
+    }
+  },
+  {
+    "version_name": "3.2.29",
+    "codes": {
+      "armeabi-v7a": 49,
+      "x86": 49,
+      "arm64-v8a": 49,
+      "x86_64": 49
+    }
+  },
+  {
+    "version_name": "4.0",
+    "codes": {
+      "armeabi-v7a": 51,
+      "x86": 51,
+      "arm64-v8a": 51,
+      "x86_64": 51
+    }
+  },
+  {
+    "version_name": "4.1",
+    "codes": {
+      "armeabi-v7a": 52,
+      "x86": 52,
+      "arm64-v8a": 52,
+      "x86_64": 52
+    }
+  },
+  {
+    "version_name": "4.2",
+    "codes": {
+      "armeabi-v7a": 53,
+      "x86": 53,
+      "arm64-v8a": 53,
+      "x86_64": 53
+    }
+  },
+  {
+    "version_name": "4.3",
+    "codes": {
+      "armeabi-v7a": 54,
+      "x86": 54,
+      "arm64-v8a": 54,
+      "x86_64": 54
+    }
+  },
+  {
+    "version_name": "4.3.1",
+    "codes": {
+      "armeabi-v7a": 55,
+      "x86": 55,
+      "arm64-v8a": 55,
+      "x86_64": 55
+    }
+  },
+  {
+    "version_name": "4.3.2",
+    "codes": {
+      "armeabi-v7a": 56,
+      "x86": 56,
+      "arm64-v8a": 56,
+      "x86_64": 56
+    }
+  },
+  {
+    "version_name": "4.3.3",
+    "codes": {
+      "armeabi-v7a": 57,
+      "x86": 57,
+      "arm64-v8a": 57,
+      "x86_64": 57
+    }
+  },
+  {
+    "version_name": "4.3.3.1",
+    "codes": {
+      "armeabi-v7a": 58,
+      "x86": 58,
+      "arm64-v8a": 58,
+      "x86_64": 58
+    }
+  },
+  {
+    "version_name": "4.3.4",
+    "codes": {
+      "armeabi-v7a": 59,
+      "x86": 59,
+      "arm64-v8a": 59,
+      "x86_64": 59
+    }
+  },
+  {
+    "version_name": "4.3.5",
+    "codes": {
+      "armeabi-v7a": 60,
+      "x86": 60,
+      "arm64-v8a": 60,
+      "x86_64": 60
+    }
+  },
+  {
+    "version_name": "4.3.6",
+    "codes": {
+      "armeabi-v7a": 61,
+      "x86": 61,
+      "arm64-v8a": 61,
+      "x86_64": 61
+    }
+  },
+  {
+    "version_name": "4.3.6.1",
+    "codes": {
+      "armeabi-v7a": 62,
+      "x86": 62,
+      "arm64-v8a": 62,
+      "x86_64": 62
+    }
+  },
+  {
+    "version_name": "4.3.6.2",
+    "codes": {
+      "armeabi-v7a": 63,
+      "x86": 63,
+      "arm64-v8a": 63,
+      "x86_64": 63
+    }
+  },
+  {
+    "version_name": "4.3.6.3",
+    "codes": {
+      "armeabi-v7a": 64,
+      "x86": 64,
+      "arm64-v8a": 64,
+      "x86_64": 64
+    }
+  },
+  {
+    "version_name": "4.3.6.4",
+    "codes": {
+      "armeabi-v7a": 65,
+      "x86": 65,
+      "arm64-v8a": 65,
+      "x86_64": 65
+    }
+  },
+  {
+    "version_name": "4.3.6.5",
+    "codes": {
+      "armeabi-v7a": 66,
+      "x86": 66,
+      "arm64-v8a": 66,
+      "x86_64": 66
+    }
+  },
+  {
+    "version_name": "4.3.6.6",
+    "codes": {
+      "armeabi-v7a": 67,
+      "x86": 67,
+      "arm64-v8a": 67,
+      "x86_64": 67
+    }
+  },
+  {
+    "version_name": "4.3.6.7",
+    "codes": {
+      "armeabi-v7a": 68,
+      "x86": 68,
+      "arm64-v8a": 68,
+      "x86_64": 68
+    }
+  },
+  {
+    "version_name": "4.3.6.8",
+    "codes": {
+      "armeabi-v7a": 69,
+      "x86": 69,
+      "arm64-v8a": 69,
+      "x86_64": 69
+    }
+  },
+  {
+    "version_name": "4.3.7.0",
+    "codes": {
+      "armeabi-v7a": 70,
+      "x86": 70,
+      "arm64-v8a": 70,
+      "x86_64": 70
+    }
+  },
+  {
+    "version_name": "4.3.7.1",
+    "codes": {
+      "armeabi-v7a": 71,
+      "x86": 71,
+      "arm64-v8a": 71,
+      "x86_64": 71
+    }
+  },
+  {
+    "version_name": "4.3.7.2",
+    "codes": {
+      "armeabi-v7a": 72,
+      "x86": 72,
+      "arm64-v8a": 72,
+      "x86_64": 72
+    }
+  },
+  {
+    "version_name": "4.3.7.3",
+    "codes": {
+      "armeabi-v7a": 73,
+      "x86": 73,
+      "arm64-v8a": 73,
+      "x86_64": 73
+    }
+  },
+  {
+    "version_name": "4.3.8.0",
+    "codes": {
+      "armeabi-v7a": 74,
+      "x86": 74,
+      "arm64-v8a": 74,
+      "x86_64": 74
+    }
+  },
+  {
+    "version_name": "4.3.8.1",
+    "codes": {
+      "armeabi-v7a": 75,
+      "x86": 75,
+      "arm64-v8a": 75,
+      "x86_64": 75
+    }
+  },
+  {
+    "version_name": "4.3.8.2",
+    "codes": {
+      "armeabi-v7a": 76,
+      "x86": 76,
+      "arm64-v8a": 76,
+      "x86_64": 76
+    }
+  },
+  {
+    "version_name": "4.3.8.3",
+    "codes": {
+      "armeabi-v7a": 77,
+      "x86": 77,
+      "arm64-v8a": 77,
+      "x86_64": 77
+    }
+  },
+  {
+    "version_name": "4.3.8.4",
+    "codes": {
+      "armeabi-v7a": 78,
+      "x86": 78,
+      "arm64-v8a": 78,
+      "x86_64": 78
+    }
+  },
+  {
+    "version_name": "4.4.0",
+    "codes": {
+      "armeabi-v7a": 79,
+      "x86": 79,
+      "arm64-v8a": 79,
+      "x86_64": 79
+    }
+  },
+  {
+    "version_name": "4.4.1",
+    "codes": {
+      "armeabi-v7a": 80,
+      "x86": 80,
+      "arm64-v8a": 80,
+      "x86_64": 80
+    }
+  },
+  {
+    "version_name": "4.5.0",
+    "codes": {
+      "armeabi-v7a": 81,
+      "x86": 81,
+      "arm64-v8a": 81,
+      "x86_64": 81
+    }
+  },
+  {
+    "version_name": "4.5.1",
+    "codes": {
+      "armeabi-v7a": 82,
+      "x86": 82,
+      "arm64-v8a": 82,
+      "x86_64": 82
+    }
+  },
+  {
+    "version_name": "4.5.2",
+    "codes": {
+      "armeabi-v7a": 83,
+      "x86": 83,
+      "arm64-v8a": 83,
+      "x86_64": 83
+    }
+  },
+  {
+    "version_name": "4.5.3",
+    "codes": {
+      "armeabi-v7a": 84,
+      "x86": 84,
+      "arm64-v8a": 84,
+      "x86_64": 84
+    }
+  },
+  {
+    "version_name": "4.6.0",
+    "codes": {
+      "armeabi-v7a": 85,
+      "x86": 85,
+      "arm64-v8a": 85,
+      "x86_64": 85
+    }
+  },
+  {
+    "version_name": "4.6.1",
+    "codes": {
+      "armeabi-v7a": 86,
+      "x86": 86,
+      "arm64-v8a": 86,
+      "x86_64": 86
+    }
+  },
+  {
+    "version_name": "4.6.2",
+    "codes": {
+      "armeabi-v7a": 87,
+      "x86": 87,
+      "arm64-v8a": 87,
+      "x86_64": 87
+    }
+  },
+  {
+    "version_name": "4.6.3",
+    "codes": {
+      "armeabi-v7a": 88,
+      "x86": 88,
+      "arm64-v8a": 88,
+      "x86_64": 88
+    }
+  },
+  {
+    "version_name": "4.6.4",
+    "codes": {
+      "armeabi-v7a": 89,
+      "x86": 89,
+      "arm64-v8a": 89,
+      "x86_64": 89
+    }
+  },
+  {
+    "version_name": "4.6.4i",
+    "codes": {
+      "arm64-v8a": 90,
+      "x86_64": 90
+    }
+  },
+  {
+    "version_name": "5.0.0",
+    "codes": {
+      "armeabi-v7a": 91,
+      "arm64-v8a": 91
+    }
+  },
+  {
+    "version_name": "5.1.0",
+    "codes": {
+      "armeabi-v7a": 92,
+      "arm64-v8a": 92
+    }
+  },
+  {
+    "version_name": "5.1.1",
+    "codes": {
+      "armeabi-v7a": 93,
+      "arm64-v8a": 93
+    }
+  },
+  {
+    "version_name": "5.2.0",
+    "codes": {
+      "armeabi-v7a": 94,
+      "arm64-v8a": 94
+    }
+  },
+  {
+    "version_name": "5.3.0",
+    "codes": {
+      "armeabi-v7a": 95,
+      "arm64-v8a": 95
+    }
+  },
+  {
+    "version_name": "5.4.0",
+    "codes": {
+      "armeabi-v7a": 98,
+      "arm64-v8a": 98
+    }
+  },
+  {
+    "version_name": "5.4.1",
+    "codes": {
+      "armeabi-v7a": 99,
+      "arm64-v8a": 99
+    }
+  },
+  {
+    "version_name": "5.4.2",
+    "codes": {
+      "armeabi-v7a": 100,
+      "arm64-v8a": 100
+    }
+  },
+  {
+    "version_name": "5.4.3",
+    "codes": {
+      "armeabi-v7a": 101,
+      "arm64-v8a": 101
+    }
+  },
+  {
+    "version_name": "5.4.4",
+    "codes": {
+      "armeabi-v7a": 102,
+      "arm64-v8a": 102
+    }
+  },
+  {
+    "version_name": "5.4.5",
+    "codes": {
+      "armeabi-v7a": 103,
+      "arm64-v8a": 103
+    }
+  },
+  {
+    "version_name": "5.4.6",
+    "codes": {
+      "armeabi-v7a": 104,
+      "arm64-v8a": 104
+    }
+  },
+  {
+    "version_name": "5.4.7",
+    "codes": {
+      "armeabi-v7a": 105,
+      "arm64-v8a": 105
+    }
+  },
+  {
+    "version_name": "5.4.8",
+    "codes": {
+      "armeabi-v7a": 106,
+      "arm64-v8a": 106
+    }
+  },
+  {
+    "version_name": "5.4.9",
+    "codes": {
+      "armeabi-v7a": 107,
+      "arm64-v8a": 107
+    }
+  },
+  {
+    "version_name": "5.4.10",
+    "codes": {
+      "armeabi-v7a": 108,
+      "arm64-v8a": 108
+    }
+  },
+  {
+    "version_name": "5.4.11",
+    "codes": {
+      "armeabi-v7a": 109,
+      "arm64-v8a": 109
+    }
+  },
+  {
+    "version_name": "5.4.12",
+    "codes": {
+      "armeabi-v7a": 110,
+      "arm64-v8a": 110
+    }
+  },
+  {
+    "version_name": "5.4.13",
+    "codes": {
+      "armeabi-v7a": 111,
+      "arm64-v8a": 111
+    }
+  },
+  {
+    "version_name": "5.4.14",
+    "codes": {
+      "armeabi-v7a": 112,
+      "arm64-v8a": 112
+    }
+  },
+  {
+    "version_name": "5.4.15",
+    "codes": {
+      "armeabi-v7a": 113,
+      "arm64-v8a": 113
+    }
+  },
+  {
+    "version_name": "5.4.16",
+    "codes": {
+      "armeabi-v7a": 114,
+      "arm64-v8a": 114
+    }
+  },
+  {
+    "version_name": "5.4.17",
+    "codes": {
+      "armeabi-v7a": 115,
+      "arm64-v8a": 115
+    }
+  },
+  {
+    "version_name": "5.4.18",
+    "codes": {
+      "armeabi-v7a": 116,
+      "arm64-v8a": 116
+    }
+  },
+  {
+    "version_name": "5.4.19",
+    "codes": {
+      "armeabi-v7a": 117,
+      "arm64-v8a": 117
+    }
+  },
+  {
+    "version_name": "5.4.20",
+    "codes": {
+      "armeabi-v7a": 118,
+      "arm64-v8a": 118
+    }
+  },
+  {
+    "version_name": "5.4.21",
+    "codes": {
+      "armeabi-v7a": 119,
+      "arm64-v8a": 119
+    }
+  },
+  {
+    "version_name": "5.4.22",
+    "codes": {
+      "armeabi-v7a": 120,
+      "arm64-v8a": 120
+    }
+  },
+  {
+    "version_name": "5.4.23",
+    "codes": {
+      "armeabi-v7a": 121,
+      "arm64-v8a": 121
+    }
+  },
+  {
+    "version_name": "5.4.24",
+    "codes": {
+      "armeabi-v7a": 122,
+      "arm64-v8a": 122
+    }
+  },
+  {
+    "version_name": "5.4.25",
+    "codes": {
+      "armeabi-v7a": 123,
+      "arm64-v8a": 123
+    }
+  },
+  {
+    "version_name": "5.4.26",
+    "codes": {
+      "armeabi-v7a": 124,
+      "arm64-v8a": 124
+    }
+  },
+  {
+    "version_name": "5.4.27",
+    "codes": {
+      "armeabi-v7a": 125,
+      "arm64-v8a": 125
+    }
+  },
+  {
+    "version_name": "5.4.28",
+    "codes": {
+      "armeabi-v7a": 126,
+      "arm64-v8a": 126
+    }
+  },
+  {
+    "version_name": "5.4.21",
+    "codes": {
+      "armeabi-v7a": 127,
+      "arm64-v8a": 127
+    }
+  },
+  {
+    "version_name": "5.4.30",
+    "codes": {
+      "armeabi-v7a": 128,
+      "arm64-v8a": 128
+    }
+  },
+  {
+    "version_name": "5.4.31",
+    "codes": {
+      "armeabi-v7a": 129,
+      "arm64-v8a": 129
+    }
+  },
+  {
+    "version_name": "5.4.32",
+    "codes": {
+      "armeabi-v7a": 131,
+      "arm64-v8a": 131
+    }
+  },
+  {
+    "version_name": "5.4.33",
+    "codes": {
+      "armeabi-v7a": 132,
+      "arm64-v8a": 132
+    }
+  },
+  {
+    "version_name": "5.4.34",
+    "codes": {
+      "armeabi-v7a": 133,
+      "arm64-v8a": 133
+    }
+  },
+  {
+    "version_name": "5.4.35",
+    "codes": {
+      "armeabi-v7a": 134,
+      "arm64-v8a": 134
+    }
+  },
+  {
+    "version_name": "5.4.36",
+    "codes": {
+      "armeabi-v7a": 135,
+      "arm64-v8a": 135
+    }
+  },
+  {
+    "version_name": "5.4.37",
+    "codes": {
+      "armeabi-v7a": 136,
+      "arm64-v8a": 136
+    }
+  },
+  {
+    "version_name": "5.4.38",
+    "codes": {
+      "armeabi-v7a": 137,
+      "arm64-v8a": 137
+    }
+  },
+  {
+    "version_name": "5.4.39",
+    "codes": {
+      "armeabi-v7a": 138,
+      "arm64-v8a": 138
+    }
+  },
+  {
+    "version_name": "5.4.40",
+    "codes": {
+      "armeabi-v7a": 139,
+      "arm64-v8a": 139
+    }
+  },
+  {
+    "version_name": "5.4.42",
+    "codes": {
+      "armeabi-v7a": 141,
+      "arm64-v8a": 141
+    }
+  },
+  {
+    "version_name": "5.4.43",
+    "codes": {
+      "armeabi-v7a": 142,
+      "arm64-v8a": 142
+    }
+  },
+  {
+    "version_name": "5.4.44",
+    "codes": {
+      "armeabi-v7a": 143,
+      "arm64-v8a": 143
+    }
+  },
+  {
+    "version_name": "5.4.45",
+    "codes": {
+      "armeabi-v7a": 144,
+      "arm64-v8a": 144
+    }
+  },
+  {
+    "version_name": "5.4.46",
+    "codes": {
+      "armeabi-v7a": 145,
+      "arm64-v8a": 145
+    }
+  },
+  {
+    "version_name": "5.4.47",
+    "codes": {
+      "armeabi-v7a": 146,
+      "arm64-v8a": 146
+    }
+  },
+  {
+    "version_name": "5.4.48",
+    "codes": {
+      "armeabi-v7a": 147,
+      "arm64-v8a": 147
+    }
+  },
+  {
+    "version_name": "5.4.49",
+    "codes": {
+      "armeabi-v7a": 148,
+      "arm64-v8a": 148
+    }
+  },
+  {
+    "version_name": "5.4.50",
+    "codes": {
+      "armeabi-v7a": 149,
+      "arm64-v8a": 149
+    }
+  },
+  {
+    "version_name": "5.4.51",
+    "codes": {
+      "armeabi-v7a": 150,
+      "arm64-v8a": 150
+    }
+  },
+  {
+    "version_name": "5.4.52",
+    "codes": {
+      "armeabi-v7a": 151,
+      "arm64-v8a": 151
+    }
+  },
+  {
+    "version_name": "5.4.53",
+    "codes": {
+      "armeabi-v7a": 152,
+      "arm64-v8a": 152
+    }
+  },
+  {
+    "version_name": "5.4.54",
+    "codes": {
+      "armeabi-v7a": 153,
+      "arm64-v8a": 153
+    }
+  },
+  {
+    "version_name": "5.4.55",
+    "codes": {
+      "armeabi-v7a": 154,
+      "arm64-v8a": 154
+    }
+  },
+  {
+    "version_name": "5.4.56",
+    "codes": {
+      "armeabi-v7a": 155,
+      "arm64-v8a": 155
+    }
+  }
+]
