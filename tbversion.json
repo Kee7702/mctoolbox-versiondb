@@ -1200,5 +1200,12 @@
       "armeabi-v7a": 155,
       "arm64-v8a": 155
     }
+  },
+  {
+    "version_name": "5.4.57",
+    "codes": {
+      "armeabi-v7a": 156,
+      "arm64-v8a": 156
+    }
   }
 ]
